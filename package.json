@@ -2,6 +2,7 @@
   "name": "react-snake-game",
   "version": "0.0.0",
   "main": "/src/index.js",
+  "homepage": "https://cyphertj.github.io/snake-game",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
